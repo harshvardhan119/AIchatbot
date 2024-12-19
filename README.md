@@ -92,7 +92,7 @@ This endpoint allows you to send user queries to the chatbot and receive respons
 
 ```json
 {
-  "message": "Hello!"
+  "userMessage": "Hello!"
 }
 ```
 
